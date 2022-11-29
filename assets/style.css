@@ -7,11 +7,11 @@ body {
 }
 
 h2 {
-  color: #00a2c6;
+  color: #020303;
 }
 
 h3 {
-  color: #00a2c6;
+  color: #080a0a;
 }
 
 h4 {
@@ -59,7 +59,7 @@ footer {
 }
 
 .card {
-  box-shadow: 0 4px 8px 0 rgb(7, 231, 247);
+  box-shadow: 0 4px 8px 0 rgb(2, 2, 2);
   border-radius: 5px;
   padding: 20px;
   margin-top: 20px;
@@ -67,10 +67,10 @@ footer {
 
 .jumbotron {
   padding: 60px;
-  background-color: darkgrey;
+  background-color: rgb(180, 175, 175);
   text-align: center;
-  font-size: 15px;
-  color: white;
+  font-size: 20px;
+  color: rgb(13, 15, 15);
 }
 
 nav li {
@@ -129,7 +129,7 @@ label {
 
 .submit {
   font-family: 'Quicksand', sans-serif;
-  background: blue;
+  background: rgb(17, 17, 19);
   color: white;
   font-weight: bold;
   margin-top: 1rem;
