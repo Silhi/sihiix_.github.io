@@ -29,6 +29,8 @@ nav a {
   font-weight: 400;
   text-decoration: none;
   color: white;
+  padding: 0px 10px;
+  transition : 0.15s;
 }
 
 a:hover {
